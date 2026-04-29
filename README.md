@@ -35,7 +35,7 @@ decodelabs-internship/
 
 ## 🌍 Live Demo
 
-(Add GitHub Pages link here after deployment)
+https://meenag86.github.io/decodelabs-internship/project-1/index.html
 
 ## 📚 Learning Outcome
 
